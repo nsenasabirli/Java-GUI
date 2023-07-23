@@ -11,10 +11,10 @@ Project Description: The purpose of the Java GUI (Graphical User Interface) is t
 - Feature 5: Ease of Use: Compared to text-based interfaces, it provides a more intuitive and comprehensible experience, making the program easier to use.
 
 ## Screenshots
+![WhatsApp Image 2023-07-23 at 13 38 54](https://github.com/nsenasabirli/Java-GUI/assets/72200463/da7699f3-bcc0-441f-87a1-8c739e3050c6)
+![WhatsApp Image 2023-07-23 at 13 39 51](https://github.com/nsenasabirli/Java-GUI/assets/72200463/ce60bd58-39ec-4e8d-9b50-fc501c37b47e)
+![WhatsApp Image 2023-07-23 at 13 40 12](https://github.com/nsenasabirli/Java-GUI/assets/72200463/c7850196-27bf-45f6-9d9f-c2f32e5a1e8b)
 
-![Screenshot 1](file:///Users/nahidesenasabirli/Downloads/WhatsApp%20Image%202023-07-23%20at%2013.38.54.jpeg)
-![Screenshot 2](file:///Users/nahidesenasabirli/Downloads/WhatsApp%20Image%202023-07-23%20at%2013.39.51.jpeg)
-![Screenshot 3](file:///Users/nahidesenasabirli/Downloads/WhatsApp%20Image%202023-07-23%20at%2013.40.12.jpeg)
 
 
 
