@@ -16,7 +16,7 @@ Project Description: The purpose of the Java GUI (Graphical User Interface) is t
 ![WhatsApp Image 2023-07-23 at 13 40 12](https://github.com/nsenasabirli/Java-GUI/assets/72200463/c7850196-27bf-45f6-9d9f-c2f32e5a1e8b)
 
 
-
+Java GUI can be utilized in various application domains, including desktop applications, games, database management tools, educational software, and many more, and it is widely employed by Java programmers.
 
 
 
