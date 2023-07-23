@@ -17,8 +17,6 @@ Project Description: The purpose of the Java GUI (Graphical User Interface) is t
 ![Screenshot 3](file:///Users/nahidesenasabirli/Downloads/WhatsApp%20Image%202023-07-23%20at%2013.40.12.jpeg)
 
 
-- Email: [nsenasabirli@hotmail.com]
-
 
 
 
